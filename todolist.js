@@ -2,6 +2,8 @@
 // data: the todo title and a flag that shows whether the
 // todo item is done.
 
+'use strict';
+
 class Todo {
   static DONE_MARKER = "X";
   static UNDONE_MARKER = " ";
